@@ -59,20 +59,20 @@ for index, row in dataframe.iterrows():
         previous_shift_end = row['Time Out']
 
 # print the output to the console
-print('Employees who have worked for 7 consecutive days :')
+print('Employees who have worked for 7 consecutive days -')
 j = 0
 for i in employees_A:
   print(i)
 print()
 print()
 
-print('Employees  who have worked less than 10 hours of time between shifts but greater than 1 hour are :')
+print('Employees  who have worked less than 10 hours of time between shifts but greater than 1 hour are -')
 for i in employees_B:
   print(i)
 print()
 print()
 
-print('Employees who have worked for more than 14 hours in a one shift :')
+print('Employees who have worked for more than 14 hours in a one shift -')
 for i in employees_C:
   print(i)
 print()

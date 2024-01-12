@@ -1,0 +1,20 @@
+Employees who have worked for 7 consecutive days -
+('CEreira Jr, JEse', 'WFS000456')
+('XEpez WAWez, XAis', 'WFS000522')
+('SiWgh, JaspreeM', 'WFS000424')
+('AXcEcer, ECar JesAs', 'WFS000541')
+
+
+Employees  who have worked less than 10 hours of time between shifts but greater than 1 hour are -
+('MraW, WiXXiaC Ha', 'WFS000345')
+('REdrigAez, GraWdEW AWgeX', 'WFS000550')
+('De Xa Cerda, IgWaciE', 'WFS000318')
+('HaCiXMEW, DeaWMe DevEW', 'WFS000536')
+('CEreira Jr, JEse', 'WFS000456')
+('DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523')
+('CaMaXaWE, CeghaW', 'WFS000153')
+('Xee, XaCar', 'WFS000200')
+
+
+Employees who have worked for more than 14 hours in a one shift -
+('DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523')
