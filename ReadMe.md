@@ -6,13 +6,14 @@
         <li>Employees who have worked for more than 14 hours in a single shift.</li>
     </ol>
 
-    <h2>How to Use</h2>
-    <p>1. Run the program by executing <code>python analyze_file.py</code>.</p>
-    <p>2. Enter the path of the CSV file when prompted.</p>
-    <p>3. View the console output for the analysis results.</p>
+<h2>How to Use</h2>
+    <p>1. Install pandas using: <code>pip install pandas</code>.
+    <p>2. Run the program by executing <code>Code.py</code>.</p>
+    <p>3. Check the path of the CSV file when prompted. The CSV file should be saved in the Data folder.</p>
+    <p>4. View the console output for the analysis results.</p>
 
-    <h2>Assumptions</h2>
+<h2>Assumptions</h2>
     <ul>
-        <li>The input file is a CSV file with columns: Name, Position, Date, Start_Time, End_Time.</li>
-        <li>The input file is well-formed, and the columns are in the correct order.</li>
+    <li>The input file is a CSV file with columns: Name, Position, Date, Start_Time, End_Time.</li>
+    <li>The input file is well-formed, and the columns are in the correct order.</li>
     </ul>
